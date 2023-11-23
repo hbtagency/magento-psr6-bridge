@@ -11,14 +11,13 @@
         "phpspec/phpspec": "^2.4",
         "squizlabs/php_codesniffer": "*",
         "phpmd/phpmd": "^2.3",
-        "satooshi/php-coveralls": "dev-master",
-        "mikey179/vfsStream": "^1.6",
-        "henrikbjorn/phpspec-code-coverage": "^2.0",
+        "php-coveralls/php-coveralls": "*",
+        "mikey179/vfsstream": "^1.6",
+        "friends-of-phpspec/phpspec-code-coverage": "*",
         "phpspec/nyan-formatters": "^1.0",
-        "ecomdev/phpspec-magento-di-adapter": "~0.1",
         "magento/zendframework1": "*"
     },
-    "version": "0.2.1",
+    "version": "0.2.3",
     "license": "OSL-3.0",
     "authors": [
         {
